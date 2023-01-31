@@ -1,3 +1,1 @@
-# rosalinsimpson.github.io
-
-# Hi! I'll be updating this site soon.
+# Hi! I'll be updating this page soon.
